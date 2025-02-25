@@ -1,2 +1,2 @@
-# bookshop_arch_serverless_awslambda
-A bookshop project by serverless awslambda architecture.
+# bookstore_arch_serverless_awslambda
+A bookstore project by serverless awslambda architecture.
